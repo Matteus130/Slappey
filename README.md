@@ -48,7 +48,8 @@ ts-node is a TypeScript interpreter for Node.JS, the dev script uses it along wi
 
 Otherwise, if you have TypeScript installed, you can skip this part and just run `npm run build` and then `npm run start`
 
-## Will Slappey support Python?
+## Will Slappey support Python? 
 
 - Soon
-
+## Author
+Made By **`Anson`** And Modified By **`Spexz`**
